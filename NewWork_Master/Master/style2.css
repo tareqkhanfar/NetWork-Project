@@ -1,0 +1,57 @@
+body {
+   background-color: blueviolet;
+}
+#firstH {
+    background-color: black;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: 60px;
+    border-radius: 20pt;
+}
+.myInfo {
+    background-color: rgb(7, 7, 36);
+    color: white;
+    height: 150pt;
+    width: 300pt;
+position: static;
+font-size: 10pt;
+text-align: center;
+margin-right: 50%;
+border-width: 10px;
+border-color: brown;
+border-style: solid;
+border-radius: 20px ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+direction: rtl;
+}
+
+#hobbies {
+    background-color: rgb(94, 0, 0);
+    color: white;
+    height: 150pt;
+    width: 300pt;
+position: static;
+font-size: 15pt;
+text-align: center;
+margin-right: 50%;
+border-width: 10px;
+border-color: rgb(255, 255, 255);
+border-style: solid;
+border-radius: 20px ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+direction: rtl;
+}
+.Image {
+    width: 200pt;
+    height: 200pt;
+    position: relative;
+    left: 400pt;
+    bottom: 300pt;
+}
+.links{
+    font-size: 30pt;
+    font-weight: bold;
+    background-color: firebrick;
+    color: aliceblue;
+    border-radius: 3pt;
+}
