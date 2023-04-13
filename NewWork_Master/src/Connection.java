@@ -104,7 +104,7 @@ x = 6 ;
                 "    </head>\n" +
                 "    <body>\n" +
                 "       <h1 style=\"color: red;\"> The file is not found</h1>\n" +
-                "       <h2><b>Name : Dania Abdullah <br> Student ID : 1215276</b></h2>\n" +
+                "       <h2><b>Name : Tareq khanfar <br> Student ID : 1200265</b></h2>\n" +
                 "       <h3>IP Address : %s And Port Number : %d </h3>\n" +
                 "    </body>\n" +
                 "</html>" , socket.getLocalAddress() , socket.getPort()) ;
