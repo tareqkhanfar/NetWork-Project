@@ -1,5 +1,15 @@
-# Chat application based P2P and UDP
+# P2P - UDP Chat Application with Public and Private Chat
+This chat application is designed with a peer-to-peer (P2P) architecture that enables users to communicate with each other directly, without the need for a central server to manage the connections. The application uses User Datagram Protocol (UDP) for communication, which provides fast and efficient data transfer between clients.
 
+The chat application has both public and private chat capabilities. Public chat messages are broadcasted to all users who are currently online, while private chat messages are sent directly between two clients.
+
+To use the application, users must first download and install the client software on their local machine. Once installed, users can connect to the network by providing their unique identifier, such as a username or ID. The application maintains a list of online users, which is updated in real-time as users join or leave the network.
+
+The P2P architecture used in this application provides several benefits over traditional client-server models. For one, it reduces the load on the central server, which can help to improve the scalability and reliability of the application. Additionally, P2P communication can provide faster and more efficient data transfer, as data can be sent directly between clients without the need for intermediate servers.
+
+However, it's worth noting that P2P architectures can be more complex to set up and maintain compared to client-server models. In particular, P2P networks can be vulnerable to security threats such as distributed denial-of-service (DDoS) attacks, which can be difficult to mitigate without a central server to provide protection. As such, it's important to ensure that the appropriate security measures are in place to protect the network.
+
+Overall, this chat application provides a fast and efficient way for users to communicate with each other, and can be a great choice for applications that require high scalability and low-latency communication.
 
 
 
